@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+    <object classid="clsid:9BE31822-FDAD-461B-AD51-BE1D1C159921"
+            codebase="http://download.videolan.org/pub/videolan/vlc/last/win32/axvlc.cab"
+            width="1350"
+            height="1010"
+            id="vlc">
+      <param name="target" value="rtsp:\\user:iControl@192.168.1.64\Streaming\Channels\101>" />
+      <param name="allowfullscreen" value="false" />
+      <param name="controls" value="false" />
+      <param name="loop" value="true" />
+    </object>
+  </body>
+</ht
